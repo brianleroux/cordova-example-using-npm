@@ -1,0 +1,15 @@
+{
+  "name": "cordova-example-using-npm",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ios": "node node_modules/cordova/bin/cordova run ios"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cordova": "^3.5.0-0.2.4"
+  }
+}
